@@ -1,0 +1,2 @@
+INSERT INTO PROPERTIES (APPLICATION, PROFILE, LABEL, PROP_KEY, PROP_VALUE) VALUES ('spring-config-jdbc-client', 'dev', 'latest', 'configA','Config A');
+INSERT INTO PROPERTIES (APPLICATION, PROFILE, LABEL, PROP_KEY, PROP_VALUE) VALUES ('spring-config-jdbc-client', 'dev', 'latest', 'configB','Config B - Dev');
